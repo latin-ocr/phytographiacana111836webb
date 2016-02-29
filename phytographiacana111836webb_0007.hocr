@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./phytographiacana111836webb_0007.png"; bbox 0 0 2541 3936; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 648 797 1742 869">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 648 797 1742 869">
+     <span class='ocr_line' id='line_1_1' title="bbox 648 797 1742 869; baseline 0.011 -11"><span class='ocrx_word' id='word_1_1' title='bbox 648 797 1106 864; x_wconf 77' lang='lat' dir='ltr'>HISTOIRE</span> <span class='ocrx_word' id='word_1_2' title='bbox 1171 804 1742 869; x_wconf 79' lang='lat' dir='ltr'><strong>NATURELLE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1145 987 1225 1014">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1145 987 1225 1014">
+     <span class='ocr_line' id='line_1_2' title="bbox 1145 987 1225 1014; baseline 0.013 -1"><span class='ocrx_word' id='word_1_3' title='bbox 1145 987 1225 1014; x_wconf 81' lang='lat' dir='ltr'>DES</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 329 1127 2039 1284">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 329 1127 2039 1284">
+     <span class='ocr_line' id='line_1_3' title="bbox 329 1127 2039 1284; baseline 0.012 -21"><span class='ocrx_word' id='word_1_4' title='bbox 329 1127 795 1269; x_wconf 86' lang='lat' dir='ltr'>ILES</span> <span class='ocrx_word' id='word_1_5' title='bbox 896 1129 2039 1284; x_wconf 72' lang='lat' dir='ltr'><strong>CANARIES.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 324 1620 1992 2667">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 324 1620 1992 2667">
+     <span class='ocr_line' id='line_1_4' title="bbox 324 1620 1992 2667; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 324 1620 1992 2667; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

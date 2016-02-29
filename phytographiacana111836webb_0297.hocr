@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./phytographiacana111836webb_0297.png"; bbox 0 0 2693 3974; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1 90 181 130">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1 90 181 130">
+     <span class='ocr_line' id='line_1_1' title="bbox 1 90 181 130; baseline -0.017 -11"><span class='ocrx_word' id='word_1_1' title='bbox 1 95 5 123; x_wconf 80' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_2' title='bbox 24 90 181 130; x_wconf 73' lang='lat' dir='ltr'>Batauique.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 14 3645 174 3682">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 14 3645 174 3682">
+     <span class='ocr_line' id='line_1_2' title="bbox 14 3645 174 3682; baseline 0.019 -7"><span class='ocrx_word' id='word_1_3' title='bbox 14 3645 20 3669; x_wconf 66' lang='grc' dir='ltr'>’ἰ</span> <span class='ocrx_word' id='word_1_4' title='bbox 26 3653 29 3654; x_wconf 70' lang='grc'>’</span> <span class='ocrx_word' id='word_1_5' title='bbox 35 3648 50 3668; x_wconf 60' lang='lat' dir='ltr'>f&lt;</span> <span class='ocrx_word' id='word_1_6' title='bbox 60 3679 64 3682; x_wconf 61' lang='lat'><em>„</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 131 3660 174 3678; x_wconf 60' lang='lat' dir='ltr'>dac.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1110 61 1429 116">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1110 61 1429 116">
+     <span class='ocr_line' id='line_1_3' title="bbox 1110 61 1429 116; baseline 0.009 -16"><span class='ocrx_word' id='word_1_8' title='bbox 1110 61 1429 116; x_wconf 69' lang='lat' dir='ltr'>Paronychieae.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1097 3799 1477 3828">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1097 3799 1477 3828">
+     <span class='ocr_line' id='line_1_4' title="bbox 1097 3799 1477 3828; baseline 0.005 -9"><span class='ocrx_word' id='word_1_9' title='bbox 1097 3801 1187 3822; x_wconf 55' lang='grc' dir='ltr'><em>ίιιιά</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1195 3800 1361 3821; x_wconf 50' lang='lat' dir='ltr'>add-&amp;aha</span> <span class='ocrx_word' id='word_1_11' title='bbox 1367 3799 1477 3828; x_wconf 65' lang='lat' dir='ltr'><em>Mea-7</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 395 2446 3587">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 395 2446 3587">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 395 2446 3587; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 395 2446 3587; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
